@@ -1,273 +1,268 @@
-   1413 the
-   1003 and
-    656 a
-    652 of
-    643 to
-    494 in
-    428 it
-    424 was
-    405 his
-    374 he
-    330 I
-    325 that
-    313 Scrooge
-    264 with
+   1569 the
+   1050 and
+    698 a
+    660 of
+    658 to
+    518 in
+    513 it
+    485 he
+    427 was
+    420 his
+    335 that
+    331 i
+    314 scrooge
+    267 with
+    231 you
+    224 as
     221 said
-    215 as
     204 had
+    197 for
     196 him
-    195 you
-    188 for
-    179 were
-    178 have
-    162 not
-    161 on
-    148 The
-    142 they
-    142 be
-    137 at
-    128 its
-    124 all
-    122 by
-    116 upon
-    113 is
-    112 but
-    111 He
-    109 this
-    109 so
+    185 have
+    182 were
+    178 they
+    177 but
+    176 not
+    163 on
+    159 its
+    153 at
+    143 be
+    131 all
+    125 is
+    124 by
+    123 there
+    122 this
+    120 so
+    118 upon
+    116 no
+    108 one
     108 me
-    100 their
-     98 one
-     96 which
-     92 there
-     90 from
-     89 or
-     88 up
-     88 Ghost
-     85 Christmas
-     84 no
-     84 It
-     83 would
+    108 if
+    101 their
+     98 which
+     97 what
+     92 ghost
+     91 when
+     91 from
+     90 or
+     89 up
+     87 christmas
+     86 my
+     84 would
+     84 spirit
      82 them
-     82 if
-     80 out
-     76 an
-     75 when
-     75 Spirit
-     74 very
-     71 my
+     82 out
+     79 an
+     78 very
+     69 who
+     68 man
+     67 old
      67 been
-     65 man
-     65 her
-     65 But
-     64 who
-     63 time
+     66 her
+     65 time
+     64 down
      63 little
-     63 down
-     62 what
-     61 old
+     63 good
+     60 know
      60 could
      59 like
-     59 know
-     57 before
+     59 do
+     58 before
+     58 are
+     56 she
+     56 now
      56 into
-     55 do
-     53 good
-     52 now
-     52 more
+     54 more
+     53 your
      52 cried
      52 about
-     51 are
      49 did
-     49 Bob
+     49 bob
+     49 again
+     48 scrooges
      48 own
-     48 Scrooges
-     47 And
-     46 see
-     46 himself
-     46 again
-     45 your
-     45 she
+     47 see
+     47 himself
      45 came
      44 went
+     44 am
+     43 will
+     43 then
      43 made
      43 hand
      42 than
-     42 am
-     42 A
+     42 dont
      41 door
      40 might
-     39 any
-     38 such
+     40 how
+     40 every
+     40 any
+     39 such
+     39 some
+     39 never
      38 head
-     37 will
-     37 some
+     37 why
      36 other
-     36 You
-     36 They
+     36 much
+     36 come
+     36 being
+     35 where
+     35 two
      35 through
-     35 then
+     35 nothing
+     35 last
+     35 here
      35 hands
-     35 being
-     35 What
-     34 two
+     35 another
      34 off
-     34 never
-     34 every
-     34 dont
+     34 merry
+     34 great
      33 round
-     33 much
-     33 another
+     32 nephew
      32 looked
-     32 last
-     32 great
      32 face
-     32 No
-     31 nephew
-     31 There
-     31 Its
-     31 Cratchit
+     31 us
+     31 though
+     31 say
+     31 first
+     31 day
+     31 cratchit
+     30 we
+     30 these
+     30 poor
+     30 light
      30 fire
      30 ever
-     29 where
-     29 us
      29 too
      29 thought
-     29 though
-     29 say
-     29 nothing
-     29 light
+     29 mrs
      29 boy
-     29 Mrs
-     28 these
      28 should
      28 returned
-     28 how
-     28 here
-     28 first
+     28 night
+     28 long
      27 young
-     27 night
+     27 quite
+     27 cold
      26 room
-     26 long
      26 life
+     26 eyes
      26 done
-     26 Why
-     26 If
-     25 quite
-     25 eyes
-     25 can
+     26 can
+     25 only
+     25 home
      25 back
+     24 well
      24 way
+     24 tiny
+     24 think
+     24 spirits
      24 sat
      24 people
-     24 only
-     24 merry
      24 heart
-     24 come
-     24 cold
+     24 dear
      24 child
      24 bed
+     23 yet
      23 woman
-     23 we
      23 voice
-     23 think
      23 saw
      23 same
+     23 many
      23 has
      23 enough
-     23 In
+     23 after
+     22 tim
      22 stood
      22 must
-     22 home
-     22 Tiny
-     22 Tim
-     21 poor
+     22 may
+     22 let
+     22 house
+     22 ha
+     22 business
      21 place
-     21 house
-     21 dear
+     21 knew
      21 dark
-     21 business
+     21 away
      21 asked
+     20 without
      20 put
-     20 many
+     20 mind
+     20 marley
      20 looking
-     20 knew
+     20 left
      20 got
-     20 day
-     20 away
-     20 Cratchits
-     19 yet
+     20 cratchits
      19 towards
+     19 three
+     19 past
      19 over
-     19 mind
-     19 left
-     19 Marley
-     18 without
+     19 make
+     19 look
+     19 go
+     18 yes
+     18 year
      18 replied
-     18 make
+     18 peter
+     18 open
+     18 oh
      18 kind
+     18 joe
+     18 hope
      18 gentleman
+     18 fezziwig
      18 dead
      18 children
      18 believe
-     18 after
-     18 Peter
-     18 Joe
-     18 Fezziwig
-     17 well
+     18 always
+     17 while
      17 until
+     17 uncle
      17 told
-     17 may
+     17 still
+     17 once
      17 laughed
-     17 hope
-     17 go
+     17 ill
+     17 hear
      17 behind
      17 anything
      17 among
-     17 always
      17 air
-     17 Oh
-     16 while
+     16 tell
+     16 sir
      16 passed
-     16 open
-     16 once
      16 observed
+     16 mr
      16 moment
+     16 men
+     16 marleys
+     16 jacob
+     16 indeed
      16 heard
-     16 hear
      16 give
+     16 even
      16 each
      16 coming
-     16 Spirits
-     16 Mr
-     16 Jacob
-     16 At
      15 years
-     15 year
+     15 world
      15 walked
-     15 sir
      15 shall
      15 pointed
+     15 our
      15 most
-     15 men
      15 hour
-     15 When
-     15 To
-     15 My
-     15 Marleys
-     15 Ill
-     15 His
-     14 world
+     15 father
+     15 bless
+     15 bell
      14 window
-     14 tell
-     14 still
+     14 something
      14 seemed
-     14 our
+     14 phantom
      14 next
-     14 look
-     14 indeed
+     14 master
+     14 keep
+     14 having
      14 half
-     14 ha
      14 going
      14 family
      14 clerk
@@ -283,30 +278,26 @@
      13 name
      13 live
      13 laugh
-     13 keep
      13 just
-     13 having
+     13 happy
      13 happened
      13 full
-     13 father
      13 exclaimed
-     13 even
-     13 bell
-     13 Yes
-     13 This
-     13 Not
+     13 end
      12 wish
      12 tried
      12 took
      12 together
-     12 three
      12 thing
+     12 thats
      12 sure
      12 streets
      12 stopped
      12 spoke
-     12 something
+     12 show
+     12 often
      12 heavy
+     12 god
      12 girl
      12 find
      12 eye
@@ -314,53 +305,52 @@
      12 city
      12 called
      12 alone
-     12 Is
-     12 How
-     12 God
-     12 Come
+     11 wouldnt
      11 work
      11 words
-     11 why
+     11 theres
      11 table
-     11 show
+     11 suppose
      11 scarcely
      11 rather
-     11 past
-     11 often
+     11 present
      11 mother
-     11 let
      11 large
      11 itself
      11 high
      11 held
-     11 happy
      11 felt
      11 fell
      11 dinner
-     11 bless
-     11 So
-     11 She
-     11 Phantom
-     11 Let
-     10 wouldnt
+     11 death
+     11 because
+     10 wonderful
+     10 whose
      10 wall
-     10 uncle
+     10 take
      10 struck
      10 street
+     10 strange
+     10 stave
+     10 spectre
      10 sound
      10 shadows
+     10 seven
      10 set
      10 self
      10 rest
      10 part
+     10 nor
      10 niece
+     10 martha
      10 help
+     10 hard
      10 ground
-     10 end
      10 em
      10 doubt
      10 didnt
      10 company
+     10 clear
      10 chain
      10 bright
      10 beyond
@@ -369,69 +359,61 @@
      10 became
      10 against
      10 afternoon
-     10 That
-     10 Merry
-     10 Martha
-     10 Good
-     10 Day
-      9 wonderful
       9 within
       9 wife
-      9 whose
       9 whom
       9 walk
       9 taking
-      9 strange
       9 straight
-      9 spirit
-      9 spectre
       9 snow
       9 sight
       9 side
-      9 seven
+      9 second
       9 robe
       9 ready
       9 purpose
       9 pudding
       9 power
+      9 perhaps
       9 office
+      9 nobody
+      9 new
       9 lay
       9 known
+      9 im
       9 hung
-      9 hard
+      9 humbug
+      9 hallo
       9 gone
+      9 fred
       9 found
       9 forth
       9 die
+      9 days
       9 curtains
+      9 couldnt
       9 corner
       9 clock
       9 black
       9 answered
       9 answer
       9 along
-      9 Theres
-      9 Poor
-      9 One
-      9 Im
-      9 Hallo
-      9 Fred
-      9 For
-      9 As
       8 white
+      8 weather
       8 warm
       8 used
+      8 twelve
       8 turning
+      8 top
       8 thoughts
       8 taken
-      8 take
       8 surprise
       8 sister
       8 point
       8 pleasant
-      8 perhaps
       8 partner
       8 morning
+      8 mans
       8 love
       8 legs
       8 knees
@@ -439,187 +421,173 @@
       8 hot
       8 hearts
       8 hair
+      8 friend
       8 free
       8 finger
       8 few
       8 fellow
       8 feet
+      8 far
       8 else
-      8 death
-      8 days
-      8 couldnt
       8 close
-      8 clear
+      8 change
       8 breath
       8 boys
       8 between
       8 began
-      8 Your
-      8 Then
-      8 THE
-      8 Present
-      8 Past
-      8 Master
-      8 Ha
-      8 Dont
+      8 bear
+      7 youre
       7 windows
-      7 weather
       7 wasnt
-      7 top
+      7 want
+      7 under
+      7 town
+      7 tonight
       7 themselves
-      7 suppose
       7 strong
       7 stone
       7 sorry
       7 soon
+      7 sometimes
       7 shut
       7 shook
-      7 second
+      7 shadow
       7 raised
       7 plump
       7 perfectly
       7 party
       7 particular
       7 nose
+      7 near
       7 minutes
-      7 mans
       7 less
       7 length
       7 laughing
       7 isnt
+      7 holly
+      7 heaven
+      7 heartily
       7 hall
       7 goose
       7 given
+      7 ghostly
+      7 gentlemen
       7 gave
-      7 friend
+      7 future
       7 former
-      7 far
+      7 ebenezer
       7 dull
+      7 dick
+      7 darkness
       7 dance
       7 church
       7 cheerful
       7 chance
       7 chair
       7 cannot
-      7 because
-      7 bear
+      7 bring
+      7 both
       7 arms
       7 arm
+      7 also
       7 afraid
       7 above
-      7 Well
-      7 We
-      7 Uncle
-      7 Here
-      7 Heaven
-      7 Dick
-      7 Are
-      7 All
       6 yard
       6 wonder
       6 wind
       6 wide
       6 water
       6 usual
-      6 under
+      6 turkey
       6 trembling
+      6 touch
       6 torch
+      6 topper
       6 tomorrow
       6 times
       6 thinking
-      6 thats
+      6 tank
+      6 stop
       6 stool
       6 state
-      6 sometimes
       6 sole
+      6 small
+      6 sitting
       6 short
       6 shape
-      6 shadow
       6 ruddy
       6 remembered
       6 red
       6 raise
       6 quarter
+      6 putting
       6 pursued
       6 pleasure
       6 piece
       6 person
       6 opened
-      6 nor
-      6 new
-      6 near
+      6 nature
       6 money
       6 mist
       6 met
       6 means
       6 mean
-      6 master
       6 low
+      6 lord
       6 lived
       6 lighted
       6 knows
       6 knocker
       6 iron
       6 inquired
-      6 holly
-      6 heartily
+      6 idea
       6 happiness
+      6 glorious
       6 glanced
       6 girls
-      6 ghostly
-      6 gentlemen
+      6 get
+      6 game
       6 forgotten
       6 fog
       6 floor
+      6 five
       6 fast
+      6 everybody
       6 entered
       6 earth
       6 dress
       6 dong
+      6 ding
       6 delight
       6 deep
-      6 darkness
       6 chin
       6 changed
-      6 change
       6 care
       6 brought
-      6 bring
       6 bound
-      6 both
       6 body
+      6 best
       6 beneath
       6 bakers
+      6 bad
+      6 ask
       6 anybody
-      6 also
-      6 Youre
-      6 Will
-      6 Where
-      6 Topper
-      6 Thats
-      6 Old
-      6 Nothing
-      6 Have
-      6 Future
-      6 Every
-      6 Ebenezer
+      6 although
       5 wretched
+      5 whats
       5 wear
-      5 want
       5 waistcoat
       5 twenty
-      5 twelve
+      5 truth
+      5 true
       5 trembled
-      5 town
       5 touched
-      5 touch
+      5 today
       5 surely
       5 standing
-      5 spirits
+      5 speak
       5 soul
-      5 small
       5 situation
-      5 sitting
       5 shown
       5 shops
       5 shaking
@@ -628,13 +596,17 @@
       5 sea
       5 scene
       5 save
+      5 running
       5 rooms
       5 rich
       5 repeated
+      5 remember
       5 reason
-      5 putting
+      5 really
+      5 quiet
       5 pretty
       5 prepared
+      5 plenty
       5 parting
       5 parlour
       5 pair
@@ -642,8 +614,6 @@
       5 opinion
       5 obliged
       5 noise
-      5 nobody
-      5 nature
       5 music
       5 mouth
       5 monstrous
@@ -653,28 +623,29 @@
       5 making
       5 likely
       5 lie
+      5 lead
       5 laid
       5 joined
       5 instead
       5 instant
       5 impossible
-      5 idea
+      5 id
+      5 however
       5 horror
+      5 holding
       5 hanging
+      5 green
       5 greater
       5 grave
-      5 glorious
+      5 ghosts
       5 getting
-      5 get
       5 garment
-      5 game
       5 frost
       5 friends
       5 fresh
       5 four
       5 form
       5 followed
-      5 five
       5 finding
       5 fifty
       5 faded
@@ -683,8 +654,10 @@
       5 easy
       5 ears
       5 dismal
+      5 dilber
       5 court
       5 course
+      5 conduct
       5 comforter
       5 closed
       5 clearly
@@ -701,37 +674,24 @@
       5 brothers
       5 brother
       5 bones
-      5 best
       5 bare
-      5 bad
       5 baby
-      5 ask
       5 animal
       5 angry
       5 ancient
       5 alive
+      5 ah
       5 ago
-      5 Who
-      5 Turkey
-      5 Three
-      5 Tank
-      5 Stave
-      5 STAVE
-      5 Never
-      5 May
-      5 Look
-      5 Id
-      5 Humbug
-      5 Dilber
-      5 Ah
-      5 After
       4 yourself
+      4 youll
       4 yesterday
-      4 yes
+      4 yellow
       4 wrong
       4 wore
       4 wished
       4 winter
+      4 whos
+      4 whether
       4 whatever
       4 walking
       4 voices
@@ -740,39 +700,39 @@
       4 value
       4 vain
       4 turn
-      4 truth
-      4 true
-      4 tonight
-      4 today
       4 till
       4 thy
+      4 thus
       4 therefore
+      4 sunday
       4 strangest
-      4 stop
       4 steady
       4 started
       4 spoken
       4 sort
       4 solitary
       4 solemn
+      4 slow
+      4 sit
       4 sisters
+      4 since
       4 sharp
+      4 seeing
       4 secret
       4 saucepan
       4 sake
-      4 running
       4 rose
       4 resumed
       4 resolved
       4 remarkable
-      4 really
       4 ran
       4 question
       4 quarters
       4 promised
+      4 produced
+      4 poulterers
       4 potatoes
       4 possible
-      4 plenty
       4 please
       4 played
       4 play
@@ -781,11 +741,13 @@
       4 patient
       4 opposite
       4 older
+      4 observing
       4 none
       4 neck
       4 nearly
       4 muttered
       4 moments
+      4 mine
       4 middle
       4 melancholy
       4 meaning
@@ -794,26 +756,26 @@
       4 loved
       4 listened
       4 liked
+      4 leave
       4 least
       4 latter
       4 late
       4 kissed
       4 jug
+      4 invisible
       4 instantly
       4 influence
       4 immediately
       4 hurried
       4 hundreds
       4 humour
-      4 humbug
-      4 however
       4 homes
-      4 holding
       4 hold
+      4 hide
+      4 hes
       4 havent
       4 handsome
       4 grew
-      4 green
       4 gold
       4 gloom
       4 gently
@@ -838,6 +800,7 @@
       4 drew
       4 dressinggown
       4 dressed
+      4 dreadful
       4 dread
       4 drawn
       4 dozen
@@ -852,7 +815,6 @@
       4 couple
       4 countinghouse
       4 conscious
-      4 conduct
       4 colour
       4 clothes
       4 choked
@@ -862,6 +824,7 @@
       4 ceased
       4 caught
       4 case
+      4 carol
       4 cap
       4 call
       4 broken
@@ -869,34 +832,18 @@
       4 breast
       4 bore
       4 bold
+      4 boiled
+      4 bobs
       4 blind
       4 blaze
       4 beat
+      4 assure
       4 ant
-      4 although
       4 afterwards
       4 across
       4 account
-      4 Yet
-      4 Whats
-      4 Very
-      4 Suppose
-      4 Sunday
-      4 Of
-      4 OF
-      4 Now
-      4 Nor
-      4 Nobody
-      4 Lord
-      4 Do
-      4 Ding
-      4 Bobs
-      4 Bless
-      4 Because
       3 yours
       3 younger
-      3 youll
-      3 yellow
       3 ye
       3 wound
       3 worthy
@@ -906,7 +853,7 @@
       3 wont
       3 women
       3 withered
-      3 whether
+      3 whoop
       3 whenever
       3 whence
       3 wealth
@@ -926,13 +873,13 @@
       3 transparent
       3 torn
       3 tight
-      3 thus
       3 threw
       3 threshold
       3 thoughtfully
       3 thoughtful
       3 third
       3 thick
+      3 thankee
       3 terror
       3 terrible
       3 tears
@@ -948,6 +895,7 @@
       3 struggling
       3 struggle
       3 stroke
+      3 story
       3 stirred
       3 stay
       3 starting
@@ -957,25 +905,23 @@
       3 spread
       3 spite
       3 speaker
-      3 speak
       3 sparkled
       3 space
       3 sought
       3 song
+      3 somehow
+      3 somebody
       3 softly
       3 smoked
       3 smiled
       3 smile
       3 smell
       3 slowly
-      3 slow
       3 slippers
       3 slight
       3 sleep
       3 size
-      3 sit
       3 singing
-      3 since
       3 silver
       3 silence
       3 signed
@@ -989,14 +935,13 @@
       3 setting
       3 senses
       3 seek
-      3 seeing
       3 roof
+      3 robin
       3 roared
       3 road
       3 retorted
       3 restless
       3 reply
-      3 remember
       3 relief
       3 release
       3 regret
@@ -1009,7 +954,6 @@
       3 rags
       3 ragged
       3 race
-      3 quiet
       3 quarrel
       3 quantity
       3 purposes
@@ -1017,9 +961,7 @@
       3 pulled
       3 provided
       3 promise
-      3 produced
       3 prisons
-      3 present
       3 presence
       3 precious
       3 praise
@@ -1029,7 +971,7 @@
       3 plates
       3 plain
       3 pigtail
-      3 phantom
+      3 phantoms
       3 perfect
       3 peoples
       3 pavement
@@ -1037,7 +979,6 @@
       3 parted
       3 oranges
       3 offices
-      3 observing
       3 notwithstanding
       3 nieces
       3 nervous
@@ -1048,10 +989,11 @@
       3 mortal
       3 mistletoe
       3 missed
+      3 miss
       3 misery
-      3 mine
       3 mild
       3 mighty
+      3 mercy
       3 mention
       3 members
       3 meeting
@@ -1072,12 +1014,12 @@
       3 lies
       3 led
       3 leaves
-      3 leave
       3 laughter
       3 lamp
       3 laden
       3 knowledge
       3 knowing
+      3 knocking
       3 knock
       3 kinds
       3 keyhole
@@ -1085,17 +1027,17 @@
       3 jovial
       3 jolly
       3 joke
-      3 invisible
       3 interest
       3 intent
       3 inside
       3 inclined
+      3 ii
       3 husband
       3 human
       3 hopes
       3 honour
       3 hob
-      3 hide
+      3 heres
       3 hed
       3 hearty
       3 hearth
@@ -1106,42 +1048,46 @@
       3 grown
       3 growled
       3 growing
+      3 grocers
       3 grass
+      3 golden
       3 goes
       3 glowing
       3 glow
+      3 glee
       3 glass
       3 glared
       3 glad
       3 giving
-      3 ghost
       3 gentle
+      3 gate
       3 gaily
       3 funeral
       3 frightful
       3 fragments
+      3 founder
       3 forfeits
       3 foreign
       3 fires
       3 fireplace
       3 fifteen
       3 feeling
+      3 feast
       3 favour
       3 falling
       3 fact
       3 explanation
       3 expected
       3 exceedingly
-      3 everybody
       3 event
       3 endeavouring
       3 endeavoured
       3 eat
       3 drink
       3 dream
-      3 dreadful
       3 doornail
       3 dinners
+      3 dine
       3 desk
       3 demanded
       3 deeds
@@ -1150,6 +1096,7 @@
       3 curiously
       3 cry
       3 crutch
+      3 crusoe
       3 crossed
       3 covered
       3 counter
@@ -1166,16 +1113,19 @@
       3 cloth
       3 cleared
       3 clapping
+      3 christian
       3 childrens
       3 cheek
       3 cheap
       3 chairs
       3 chains
       3 ceiling
+      3 catch
       3 cast
       3 carts
       3 carry
       3 capacious
+      3 bye
       3 buried
       3 brown
       3 brow
@@ -1194,15 +1144,16 @@
       3 belt
       3 belonging
       3 bells
+      3 belinda
       3 believed
       3 begged
       3 beggars
+      3 bedcurtains
       3 become
       3 bade
       3 awful
       3 attitude
       3 astonishment
-      3 assure
       3 aside
       3 apply
       3 apples
@@ -1210,40 +1161,13 @@
       3 almost
       3 age
       3 advanced
+      3 admiration
       3 addressed
       3 added
+      3 act
       3 accompanied
-      3 Year
-      3 With
-      3 Whoop
-      3 Were
-      3 Twelve
-      3 Tonight
-      3 Thankee
-      3 Still
-      3 SPIRITS
-      3 Robin
-      3 New
-      3 Much
-      3 Miss
-      3 Many
-      3 Man
-      3 Lead
-      3 II
-      3 Home
-      3 Ghosts
-      3 Founder
-      3 Everybody
-      3 Even
-      3 Death
-      3 Dear
-      3 Crusoe
-      3 Cold
-      3 Christian
-      3 Belinda
-      3 An
-      3 Again
       2 yonder
+      2 yo
       2 yield
       2 writing
       2 wrinkle
@@ -1253,13 +1177,13 @@
       2 worked
       2 woe
       2 wiser
+      2 wise
       2 wintry
       2 winking
       2 winemerchants
       2 wine
       2 wild
       2 wicked
-      2 whos
       2 whispered
       2 wheels
       2 wet
@@ -1274,6 +1198,7 @@
       2 visions
       2 viewed
       2 vibrate
+      2 v
       2 usually
       2 using
       2 use
@@ -1305,13 +1230,12 @@
       2 travelling
       2 travel
       2 trade
+      2 total
       2 torture
-      2 tiny
       2 threadbare
       2 thousands
       2 thousand
       2 thou
-      2 theres
       2 thawed
       2 thankful
       2 thanked
@@ -1340,10 +1264,11 @@
       2 stuff
       2 stuck
       2 strive
+      2 strike
       2 streamed
-      2 story
       2 stones
       2 sticks
+      2 step
       2 steel
       2 steam
       2 steadiness
@@ -1354,12 +1279,11 @@
       2 splendid
       2 spectres
       2 spectral
+      2 spanish
       2 sounds
       2 sounded
       2 sorts
       2 sorrowful
-      2 somehow
-      2 somebody
       2 sofa
       2 snug
       2 smooth
@@ -1370,6 +1294,7 @@
       2 skirts
       2 sixpence
       2 six
+      2 sittingroom
       2 simple
       2 signs
       2 sidled
@@ -1385,11 +1310,14 @@
       2 shining
       2 shillings
       2 sheet
+      2 shaving
       2 shared
       2 shant
       2 shame
       2 shade
+      2 seventh
       2 service
+      2 servant
       2 serious
       2 separate
       2 sent
@@ -1398,7 +1326,9 @@
       2 sensation
       2 sending
       2 seized
+      2 secrets
       2 seaweed
+      2 seasonable
       2 scraping
       2 scrambled
       2 schoolmaster
@@ -1411,6 +1341,7 @@
       2 satisfactory
       2 sank
       2 salary
+      2 saint
       2 sage
       2 rusty
       2 ruler
@@ -1418,6 +1349,8 @@
       2 rough
       2 rolling
       2 rocks
+      2 robert
+      2 roast
       2 roaring
       2 rings
       2 ringing
@@ -1428,6 +1361,7 @@
       2 retire
       2 restored
       2 render
+      2 remove
       2 remain
       2 released
       2 rejoiced
@@ -1440,26 +1374,29 @@
       2 rate
       2 rain
       2 quickly
+      2 quick
       2 questioned
       2 quality
       2 punishment
       2 punch
       2 profit
       2 prize
+      2 principle
       2 pretending
       2 pressed
       2 presented
       2 predicted
+      2 pray
       2 praised
       2 poverty
       2 pounds
       2 poultry
-      2 poulterers
       2 possession
       2 portly
       2 porter
       2 population
       2 poorly
+      2 pooh
       2 plunged
       2 plundered
       2 pleased
@@ -1467,7 +1404,6 @@
       2 pleaded
       2 pity
       2 phenomenon
-      2 phantoms
       2 persons
       2 period
       2 peeping
@@ -1476,8 +1412,11 @@
       2 paused
       2 path
       2 passion
+      2 passing
       2 partners
       2 parties
+      2 parrot
+      2 parliament
       2 pale
       2 paid
       2 oysters
@@ -1530,7 +1469,7 @@
       2 mildly
       2 merriment
       2 merrier
-      2 mercy
+      2 mens
       2 memory
       2 melted
       2 meagre
@@ -1538,12 +1477,14 @@
       2 masses
       2 mashed
       2 mark
+      2 mansion
       2 lunch
+      2 lumberroom
       2 loud
-      2 lord
       2 lookout
       2 longer
       2 lonely
+      2 london
       2 lofty
       2 locked
       2 livid
@@ -1556,12 +1497,12 @@
       2 lifting
       2 liberality
       2 letters
+      2 lets
       2 lesson
       2 lemons
       2 leaving
       2 learn
       2 leaning
-      2 lead
       2 laying
       2 laundress
       2 later
@@ -1573,7 +1514,6 @@
       2 ladies
       2 lace
       2 labour
-      2 knocking
       2 knocked
       2 kitchens
       2 kissing
@@ -1588,6 +1528,7 @@
       2 joy
       2 journeys
       2 ivy
+      2 iv
       2 irresistibly
       2 irresistible
       2 interfere
@@ -1597,13 +1538,16 @@
       2 inexpressibly
       2 industry
       2 indignantly
+      2 incessant
       2 importance
       2 immortal
       2 immense
       2 illwill
       2 illused
-      2 ill
+      2 iii
+      2 idol
       2 idle
+      2 hurrah
       2 hungry
       2 humility
       2 housekeepers
@@ -1614,13 +1558,14 @@
       2 hooded
       2 honest
       2 hollow
+      2 holidays
       2 holiday
       2 hole
       2 ho
       2 hinted
       2 hinges
+      2 hilliho
       2 hidden
-      2 hes
       2 helped
       2 heavily
       2 heavier
@@ -1629,7 +1574,9 @@
       2 hearse
       2 hearing
       2 heaps
+      2 heaped
       2 haunted
+      2 haunt
       2 hat
       2 hasnt
       2 happier
@@ -1639,6 +1586,7 @@
       2 hadnt
       2 habit
       2 guests
+      2 guess
       2 growth
       2 growl
       2 groups
@@ -1652,29 +1600,29 @@
       2 grateful
       2 gracefully
       2 graceful
-      2 golden
       2 gnawed
       2 gloomy
       2 globe
-      2 glee
       2 gleaming
       2 glance
       2 gladly
-      2 ghosts
+      2 girded
       2 genial
       2 general
       2 geese
-      2 gate
       2 gasping
       2 garments
+      2 gain
       2 furrows
       2 fuel
       2 fruits
       2 frozen
       2 fro
       2 frightened
+      2 foul
       2 forty
       2 forms
+      2 forgive
       2 forgetting
       2 forget
       2 forehead
@@ -1694,6 +1642,7 @@
       2 firm
       2 figures
       2 fields
+      2 fezziwigs
       2 fetch
       2 ferocious
       2 fellows
@@ -1701,6 +1650,7 @@
       2 fathers
       2 fate
       2 fastened
+      2 fan
       2 faltered
       2 false
       2 faintly
@@ -1713,6 +1663,7 @@
       2 express
       2 expecting
       2 expectation
+      2 expect
       2 exhausted
       2 excuse
       2 excrescence
@@ -1720,7 +1671,9 @@
       2 excited
       2 except
       2 examined
+      2 evil
       2 evenhanded
+      2 eve
       2 entreaty
       2 entering
       2 enter
@@ -1733,6 +1686,7 @@
       2 elbow
       2 eighteen
       2 eight
+      2 eh
       2 effort
       2 effect
       2 ecstasy
@@ -1746,7 +1700,9 @@
       2 eager
       2 dying
       2 dwelling
+      2 dutch
       2 dusky
+      2 during
       2 dry
       2 drunken
       2 dropped
@@ -1775,9 +1731,8 @@
       2 direction
       2 diningroom
       2 dingy
-      2 ding
-      2 dine
       2 dim
+      2 dickens
       2 descending
       2 departed
       2 dense
@@ -1786,6 +1741,7 @@
       2 delicious
       2 degree
       2 decrease
+      2 december
       2 dears
       2 dances
       2 crying
@@ -1821,14 +1777,17 @@
       2 closely
       2 clerks
       2 claw
+      2 clash
       2 clapped
       2 clang
+      2 churchyard
       2 chose
       2 choose
       2 chimes
       2 childish
       2 cheer
       2 chattering
+      2 charles
       2 charge
       2 chambers
       2 centre
@@ -1836,15 +1795,16 @@
       2 caused
       2 cause
       2 catching
-      2 catch
       2 cat
+      2 caroline
       2 caring
       2 cares
       2 candlelight
+      2 camden
       2 cake
       2 cab
-      2 bye
       2 burst
+      2 built
       2 building
       2 buff
       2 brood
@@ -1859,7 +1819,6 @@
       2 bow
       2 borne
       2 books
-      2 boiled
       2 blushed
       2 blithe
       2 blindmans
@@ -1870,6 +1829,7 @@
       2 blank
       2 biting
       2 big
+      2 beware
       2 bestow
       2 bent
       2 behold
@@ -1880,12 +1840,16 @@
       2 beds
       2 bedroom
       2 bedpost
+      2 becoming
       2 beautiful
       2 beaming
       2 baskets
       2 bargain
       2 bandage
+      2 bah
+      2 baba
       2 awoke
+      2 avarice
       2 attention
       2 attached
       2 atmosphere
@@ -1907,97 +1871,17 @@
       2 altered
       2 alteration
       2 allowed
+      2 allow
+      2 ali
       2 alarming
       2 agitated
-      2 admiration
       2 adjusted
       2 action
-      2 act
       2 accustomed
       2 abroad
       2 able
-      2 Yo
-      2 Without
-      2 Whos
-      2 Which
-      2 Was
-      2 Want
-      2 V
-      2 Upon
-      2 Town
-      2 Time
-      2 Though
-      2 These
-      2 Tell
-      2 Take
-      2 THREE
-      2 Stop
-      2 Speak
-      2 Spanish
-      2 Something
-      2 Some
-      2 Say
-      2 Saint
-      2 Robert
-      2 Roast
-      2 Remember
-      2 Quite
-      2 Quiet
-      2 Pray
-      2 Poulterers
-      2 Parrot
-      2 Parliament
-      2 Out
-      2 Open
-      2 On
-      2 More
-      2 Long
-      2 London
-      2 Last
-      2 Indeed
-      2 IV
-      2 III
-      2 Hurrah
-      2 Hilliho
-      2 Hes
-      2 Heres
-      2 Happy
-      2 Grocers
-      2 Great
-      2 Go
-      2 Gain
-      2 Forgive
-      2 First
-      2 Fezziwigs
-      2 Feast
-      2 Father
-      2 Fan
-      2 Expect
-      2 Eve
-      2 End
-      2 Dutch
-      2 Dickens
-      2 December
-      2 Clear
-      2 Charles
-      2 Change
-      2 Caroline
-      2 Carol
-      2 Camden
-      2 CHRISTMAS
-      2 By
-      2 Boiled
-      2 Bell
-      2 Bedcurtains
-      2 Bah
-      2 Baba
-      2 Another
-      2 Am
-      2 Although
-      2 Ali
       1 zeal
       1 youth
-      1 youre
       1 youngest
       1 youd
       1 youcan
@@ -2031,15 +1915,14 @@
       1 wits
       1 witnessesto
       1 witness
+      1 withi
       1 withdrew
       1 withdrawing
       1 withdraw
       1 withal
-      1 withI
       1 witches
       1 wishing
       1 wisest
-      1 wise
       1 wisdom
       1 wiry
       1 wiped
@@ -2053,6 +1936,7 @@
       1 win
       1 willingly
       1 willhave
+      1 wilkins
       1 wilfully
       1 wildly
       1 wig
@@ -2061,18 +1945,21 @@
       1 whomsoever
       1 wholly
       1 whither
+      1 whitechapel
       1 whistle
       1 whims
       1 wherever
       1 wheresoever
       1 wheres
       1 wherein
+      1 wherefore
+      1 whereat
       1 wheezing
       1 wheel
-      1 whats
       1 west
       1 wept
       1 weor
+      1 welsh
       1 wellremembered
       1 welcome
       1 weights
@@ -2081,6 +1968,7 @@
       1 weekly
       1 week
       1 weeds
+      1 wed
       1 weathercocksurmounted
       1 weary
       1 wearing
@@ -2112,11 +2000,14 @@
       1 warmer
       1 wares
       1 warded
+      1 ward
       1 wanton
       1 waning
       1 wander
+      1 walled
       1 walkthat
       1 walks
+      1 walker
       1 waking
       1 waiting
       1 waistcoats
@@ -2144,6 +2035,7 @@
       1 vegetations
       1 various
       1 vapour
+      1 valentine
       1 vaguely
       1 vague
       1 vacant
@@ -2159,6 +2051,7 @@
       1 unwatched
       1 unusual
       1 untrue
+      1 unseen
       1 unseemly
       1 unprofitable
       1 unpleasant
@@ -2166,6 +2059,8 @@
       1 unlikely
       1 unless
       1 unknown
+      1 united
+      1 union
       1 unhallowed
       1 ungrateful
       1 unfeeling
@@ -2205,9 +2100,10 @@
       1 twiceturned
       1 twentyfifth
       1 twelfthcakes
+      1 twelfth
+      1 tut
       1 turnings
       1 turkeycock
-      1 turkey
       1 tunic
       1 tunes
       1 tuned
@@ -2232,6 +2128,7 @@
       1 tremendously
       1 tremendous
       1 treasure
+      1 treadmill
       1 tread
       1 travels
       1 travellers
@@ -2247,7 +2144,6 @@
       1 tower
       1 towels
       1 tough
-      1 total
       1 tops
       1 toothpick
       1 tooat
@@ -2259,6 +2155,8 @@
       1 toast
       1 tiptoe
       1 tints
+      1 timshall
+      1 tims
       1 timidly
       1 timesold
       1 timeofday
@@ -2286,8 +2184,10 @@
       1 thin
       1 thickened
       1 theyve
+      1 theyre
+      1 theyd
       1 thermometer
-      1 thereNot
+      1 therenot
       1 themes
       1 thaw
       1 thatas
@@ -2310,7 +2210,6 @@
       1 task
       1 tartness
       1 tap
-      1 tank
       1 taller
       1 talking
       1 takes
@@ -2348,6 +2247,7 @@
       1 sunk
       1 sung
       1 sums
+      1 sultans
       1 sullenly
       1 sullen
       1 suite
@@ -2355,6 +2255,7 @@
       1 sugartongs
       1 sugar
       1 suffers
+      1 suddenly
       1 suckingpigs
       1 successor
       1 success
@@ -2374,7 +2275,6 @@
       1 stronger
       1 strolled
       1 stroll
-      1 strike
       1 strife
       1 strictly
       1 stretching
@@ -2406,14 +2306,15 @@
       1 sticking
       1 sternly
       1 steps
-      1 step
       1 stem
       1 steeples
       1 steeped
       1 stature
       1 statues
+      1 states
       1 stately
       1 stated
+      1 star
       1 stamping
       1 stamp
       1 stale
@@ -2465,6 +2366,7 @@
       1 speckled
       1 special
       1 speaking
+      1 speakers
       1 sparkling
       1 spark
       1 spared
@@ -2486,6 +2388,7 @@
       1 sold
       1 softening
       1 softened
+      1 soften
       1 soft
       1 sobbing
       1 sobbed
@@ -2514,6 +2417,7 @@
       1 sleeve
       1 sleet
       1 sleeping
+      1 slander
       1 skreeks
       1 skipping
       1 skin
@@ -2522,9 +2426,9 @@
       1 skater
       1 sixty
       1 sixbarred
-      1 sittingroom
       1 sisterthe
       1 sinner
+      1 singularly
       1 singular
       1 single
       1 singer
@@ -2571,11 +2475,12 @@
       1 shine
       1 shilling
       1 shelves
+      1 sheets
       1 sheen
       1 sheds
+      1 sheba
       1 sheath
       1 shawl
-      1 shaving
       1 sharpest
       1 sharper
       1 share
@@ -2589,10 +2494,9 @@
       1 severe
       1 severally
       1 seventy
-      1 seventh
       1 services
       1 served
-      1 servant
+      1 serve
       1 sepulchres
       1 sentiment
       1 sends
@@ -2606,21 +2510,22 @@
       1 seem
       1 security
       1 secured
-      1 secrets
       1 seated
       1 seat
-      1 seasonable
       1 searching
       1 seals
       1 sealingwax
       1 seal
       1 scuffle
       1 scrutinise
+      1 scroooooge
+      1 scriptures
       1 screws
       1 screw
       1 screened
       1 screen
       1 screaming
+      1 scratch
       1 scrap
       1 scowling
       1 scorning
@@ -2638,6 +2543,7 @@
       1 savour
       1 savage
       1 saucepanlid
+      1 saturdays
       1 satisfaction
       1 sang
       1 sallied
@@ -2665,10 +2571,13 @@
       1 roller
       1 rolled
       1 roll
+      1 roger
       1 rod
+      1 robinson
       1 roar
       1 river
       1 rising
+      1 rise
       1 ripe
       1 ring
       1 rime
@@ -2717,7 +2626,6 @@
       1 repassed
       1 repairing
       1 removing
-      1 remove
       1 remorse
       1 remonstrated
       1 reminded
@@ -2788,10 +2696,10 @@
       1 racehorses
       1 quoted
       1 quickening
-      1 quick
       1 questions
       1 questioning
       1 quest
+      1 queens
       1 quake
       1 quaint
       1 pyramids
@@ -2815,11 +2723,14 @@
       1 proud
       1 protruding
       1 prostrate
+      1 prose
       1 proposed
       1 proportions
+      1 prophets
       1 property
       1 pronouncing
       1 pronounced
+      1 project
       1 progress
       1 profound
       1 profited
@@ -2836,7 +2747,7 @@
       1 private
       1 prisoner
       1 principles
-      1 principle
+      1 princess
       1 prime
       1 pride
       1 price
@@ -2849,6 +2760,7 @@
       1 preparations
       1 prentices
       1 prematurely
+      1 preface
       1 prediction
       1 predicament
       1 precepts
@@ -2868,10 +2780,11 @@
       1 positive
       1 position
       1 portion
+      1 porch
       1 poplar
-      1 pooh
       1 ponies
       1 ponderous
+      1 pondering
       1 pommel
       1 polished
       1 poker
@@ -2887,6 +2800,7 @@
       1 plume
       1 plucked
       1 ploughed
+      1 plentys
       1 plentiful
       1 pledged
       1 pleasantry
@@ -2915,12 +2829,15 @@
       1 pigs
       1 pig
       1 pies
+      1 piercing
       1 pierce
       1 picture
       1 picking
       1 pick
       1 piano
+      1 pharaohs
       1 petrification
+      1 peters
       1 perversion
       1 perspiration
       1 personally
@@ -2949,6 +2866,7 @@
       1 paying
       1 pawnbrokers
       1 paved
+      1 pauls
       1 patting
       1 pattern
       1 patted
@@ -2957,7 +2875,6 @@
       1 pastrycooks
       1 passions
       1 passionless
-      1 passing
       1 passengers
       1 passage
       1 pass
@@ -2965,6 +2882,7 @@
       1 particularly
       1 particles
       1 parlours
+      1 parks
       1 pardon
       1 parcels
       1 parapets
@@ -2994,6 +2912,7 @@
       1 outpouring
       1 outline
       1 outcast
+      1 orson
       1 origin
       1 organ
       1 orders
@@ -3006,12 +2925,13 @@
       1 onward
       1 onuntil
       1 onslaught
+      1 onions
       1 ones
       1 ominous
       1 oldfashioned
       1 oily
       1 oil
-      1 oh
+      1 ogre
       1 officious
       1 officers
       1 offend
@@ -3035,6 +2955,7 @@
       1 nuisance
       1 nowhere
       1 noticed
+      1 norfolk
       1 noon
       1 noisy
       1 noisily
@@ -3043,6 +2964,7 @@
       1 noble
       1 nineand
       1 nick
+      1 nice
       1 newspapers
       1 news
       1 newborn
@@ -3054,6 +2976,7 @@
       1 needs
       1 necessity
       1 necessaries
+      1 nay
       1 natural
       1 narrowest
       1 names
@@ -3075,6 +2998,7 @@
       1 multitudes
       1 multitude
       1 mulled
+      1 muchmarleys
       1 movable
       1 mourningdress
       1 mountains
@@ -3088,6 +3012,7 @@
       1 month
       1 monsters
       1 moneychanging
+      1 monday
       1 momentary
       1 molten
       1 moist
@@ -3108,8 +3033,10 @@
       1 miracle
       1 ministers
       1 mingle
+      1 miners
       1 millions
       1 milliners
+      1 miller
       1 milkman
       1 midst
       1 midnight
@@ -3121,20 +3048,24 @@
       1 merriest
       1 merged
       1 merciless
+      1 merciful
       1 merchants
       1 merchant
       1 mentionedthey
       1 mentioned
-      1 mens
+      1 menendez
       1 menagerie
       1 menacing
       1 mein
+      1 mei
       1 medium
       1 meditation
       1 measuring
+      1 meanwhile
       1 meand
-      1 meI
       1 maythe
+      1 mayors
+      1 mayor
       1 mature
       1 matron
       1 matched
@@ -3149,7 +3080,7 @@
       1 manyah
       1 mantle
       1 manslaughter
-      1 mansion
+      1 mankind
       1 malady
       1 main
       1 magnitude
@@ -3163,7 +3094,6 @@
       1 luscious
       1 lurked
       1 lunatic
-      1 lumberroom
       1 lowering
       1 lowbrowed
       1 lovable
@@ -3198,6 +3128,7 @@
       1 linen
       1 limits
       1 limbs
+      1 likewise
       1 likes
       1 likeness
       1 lighthouse
@@ -3210,7 +3141,6 @@
       1 liable
       1 lettuce
       1 letting
-      1 lets
       1 lest
       1 lessons
       1 legion
@@ -3227,6 +3157,7 @@
       1 leafless
       1 leaf
       1 leading
+      1 law
       1 laundresss
       1 laughs
       1 laths
@@ -3235,6 +3166,7 @@
       1 lasted
       1 lashes
       1 larger
+      1 laocoön
       1 language
       1 lanes
       1 lands
@@ -3249,7 +3181,7 @@
       1 laboured
       1 knots
       1 knot
-      1 knockerHeres
+      1 knockerheres
       1 knife
       1 knelt
       1 knee
@@ -3273,8 +3205,10 @@
       1 joyously
       1 joyful
       1 jostled
+      1 jose
       1 jokes
       1 joints
+      1 joining
       1 jocund
       1 jiffy
       1 jet
@@ -3282,9 +3216,11 @@
       1 jaws
       1 jaw
       1 jail
+      1 jack
+      1 ive
       1 itin
+      1 iti
       1 item
-      1 itI
       1 issued
       1 issue
       1 island
@@ -3294,6 +3230,7 @@
       1 involve
       1 involuntarily
       1 investments
+      1 introduce
       1 intricate
       1 intimation
       1 intervention
@@ -3311,6 +3248,7 @@
       1 inspection
       1 insisted
       1 insignificant
+      1 insect
       1 inquiry
       1 inquire
       1 innumerable
@@ -3336,7 +3274,6 @@
       1 included
       1 inches
       1 inch
-      1 incessant
       1 incense
       1 inaudible
       1 inasmuch
@@ -3357,8 +3294,8 @@
       1 image
       1 illustrious
       1 illustrate
+      1 ignorance
       1 ignited
-      1 idol
       1 idiot
       1 identity
       1 icy
@@ -3366,7 +3303,6 @@
       1 icicle
       1 iced
       1 ice
-      1 i
       1 hut
       1 hustled
       1 hushed
@@ -3389,12 +3325,12 @@
       1 horny
       1 horn
       1 hopeful
+      1 hoop
       1 hooks
       1 hood
       1 honoured
       1 homeward
       1 homage
-      1 holidays
       1 holes
       1 hoarfrost
       1 hoarding
@@ -3415,24 +3351,23 @@
       1 herself
       1 herethe
       1 heresy
-      1 heres
-      1 hereI
+      1 herei
       1 herd
       1 helping
       1 helmsman
+      1 hell
       1 heir
       1 heightened
       1 heeded
       1 heed
       1 heaving
       1 heaviest
+      1 heavenly
       1 heartiness
       1 heartier
       1 hearthstone
-      1 heaped
       1 heap
       1 headdress
-      1 haunt
       1 hats
       1 hatred
       1 hathat
@@ -3443,27 +3378,33 @@
       1 harp
       1 harmless
       1 harm
+      1 hark
       1 hardily
       1 harddealing
       1 happiest
       1 handsomely
       1 handful
       1 handed
+      1 hamlets
       1 halves
+      1 halloo
+      1 halloa
       1 halfthawed
       1 halfrecumbent
+      1 halfpast
       1 halfnaked
       1 halfdrunken
       1 halfchimney
       1 halfaquartern
       1 halfanhour
+      1 halfadozen
       1 hail
       1 haggard
+      1 gutenberg
       1 gush
       1 guilty
       1 guiding
       1 guessed
-      1 guess
       1 guard
       1 grunted
       1 gruff
@@ -3473,8 +3414,9 @@
       1 grouped
       1 groped
       1 grope
+      1 groom
       1 grog
-      1 grocers
+      1 grocer
       1 griping
       1 grins
       1 grinning
@@ -3499,6 +3441,7 @@
       1 grace
       1 gown
       1 governments
+      1 gothic
       1 goosea
       1 goodnesshere
       1 goodnatured
@@ -3525,14 +3468,16 @@
       1 gladness
       1 gives
       1 girlyou
-      1 girded
       1 gin
       1 gills
       1 gigs
       1 gigantic
       1 giddy
       1 giants
+      1 giant
       1 gets
+      1 genius
+      1 genii
       1 generation
       1 gazed
       1 gaze
@@ -3550,10 +3495,11 @@
       1 games
       1 gallantry
       1 gallantly
+      1 gale
       1 gait
       1 gainsay
       1 gains
-      1 future
+      1 futureinto
       1 furze
       1 furniture
       1 furnished
@@ -3574,7 +3520,10 @@
       1 frisked
       1 fringe
       1 friendly
+      1 friday
+      1 friars
       1 freshest
+      1 french
       1 freezing
       1 freer
       1 freely
@@ -3585,8 +3534,8 @@
       1 frail
       1 fragrance
       1 fragment
+      1 fowls
       1 fourroomed
-      1 foul
       1 fought
       1 forward
       1 fortunes
@@ -3612,6 +3561,7 @@
       1 foldings
       1 folding
       1 folded
+      1 foggier
       1 flutterings
       1 fluttered
       1 flushed
@@ -3676,7 +3626,6 @@
       1 feathered
       1 featherbeds
       1 feather
-      1 feast
       1 fearful
       1 feared
       1 fatness
@@ -3705,6 +3654,7 @@
       1 extract
       1 extinguishercap
       1 extinguished
+      1 external
       1 extent
       1 extensive
       1 exposed
@@ -3715,17 +3665,19 @@
       1 execrable
       1 exclusive
       1 exchanging
+      1 exchange
       1 excellent
       1 exceeded
       1 example
       1 exalted
       1 exactly
-      1 evil
       1 evidence
+      1 eves
       1 everywhere
       1 everyhow
       1 evermore
       1 evergreens
+      1 eveold
       1 evenings
       1 eternity
       1 esteem
@@ -3767,9 +3719,11 @@
       1 elses
       1 elicited
       1 elbows
+      1 eked
       1 edge
       1 echoed
       1 echo
+      1 ebook
       1 eatinghouse
       1 easterly
       1 easily
@@ -3782,7 +3736,7 @@
       1 dusty
       1 dusted
       1 dust
-      1 during
+      1 dunstan
       1 dumb
       1 duller
       1 due
@@ -3818,6 +3772,7 @@
       1 doorway
       1 doorstep
       1 doomed
+      1 doom
       1 dominion
       1 domestic
       1 dolls
@@ -3903,6 +3858,7 @@
       1 depressed
       1 deposit
       1 depend
+      1 deny
       1 den
       1 demurely
       1 demons
@@ -3948,8 +3904,10 @@
       1 dancers
       1 danced
       1 damp
+      1 damascus
       1 damaged
       1 dainties
+      1 d
       1 cutcut
       1 customers
       1 custom
@@ -3984,6 +3942,7 @@
       1 cow
       1 covetous
       1 covers
+      1 coverley
       1 covering
       1 cover
       1 cousins
@@ -3992,6 +3951,7 @@
       1 courseand
       1 courage
       1 couples
+      1 countrys
       1 countinghousemark
       1 counting
       1 countess
@@ -4002,6 +3962,7 @@
       1 corroborated
       1 corpse
       1 corporation
+      1 cornhill
       1 corners
       1 corkscrew
       1 core
@@ -4023,6 +3984,7 @@
       1 contracted
       1 contract
       1 contortions
+      1 contents
       1 contented
       1 contagious
       1 constantly
@@ -4091,7 +4053,6 @@
       1 clergyman
       1 clearest
       1 clasping
-      1 clash
       1 clap
       1 clanking
       1 clanked
@@ -4099,13 +4060,13 @@
       1 clad
       1 circle
       1 cinnamon
-      1 churchyard
       1 churches
       1 chuckled
       1 chosen
       1 chorus
       1 choosing
       1 choice
+      1 chirrup
       1 chinked
       1 chink
       1 chimneys
@@ -4153,7 +4114,6 @@
       1 carvingknife
       1 carrying
       1 carriages
-      1 carol
       1 careworn
       1 carelessly
       1 carefully
@@ -4174,7 +4134,9 @@
       1 calico
       1 calendar
       1 caked
+      1 cains
       1 cable
+      1 c
       1 bygone
       1 byeways
       1 byestreets
@@ -4195,7 +4157,6 @@
       1 bunches
       1 bumping
       1 bull
-      1 built
       1 buck
       1 bubbling
       1 brushed
@@ -4204,6 +4165,7 @@
       1 brooch
       1 broadwise
       1 broadgirthed
+      1 britain
       1 bristling
       1 brings
       1 brimful
@@ -4267,6 +4229,7 @@
       1 blindman
       1 blindfold
       1 blest
+      1 blessings
       1 blessing
       1 blended
       1 blame
@@ -4279,18 +4242,21 @@
       1 bills
       1 bilious
       1 bigotry
+      1 biffins
       1 bide
       1 bewildering
-      1 beware
       1 bestparlour
       1 bestowed
       1 besought
+      1 besidesexcuse
       1 beseeching
       1 beseech
       1 bereft
       1 benefit
       1 bending
+      1 belshazzars
       1 belonged
+      1 belle
       1 belief
       1 beings
       1 behindhand
@@ -4302,9 +4268,8 @@
       1 beforehand
       1 beetling
       1 beer
+      1 bedlam
       1 bedight
-      1 bedcurtains
-      1 becoming
       1 beckoned
       1 beating
       1 beaten
@@ -4327,6 +4292,7 @@
       1 balustrades
       1 ballroom
       1 ball
+      1 baleful
       1 balancing
       1 baking
       1 baker
@@ -4343,9 +4309,9 @@
       1 axe
       1 awkwardly
       1 aweek
+      1 awaking
       1 awake
       1 avoid
-      1 avarice
       1 authority
       1 aunts
       1 aught
@@ -4395,6 +4361,7 @@
       1 apparel
       1 appalling
       1 appalled
+      1 apostles
       1 apoplectic
       1 anywhere
       1 anyway
@@ -4407,19 +4374,22 @@
       1 announcement
       1 announced
       1 angels
+      1 angelic
       1 angel
       1 ancestors
       1 ample
       1 amongst
       1 amazed
+      1 altogether
       1 altar
       1 alphabet
       1 alonetoo
       1 almshouse
       1 almonds
-      1 allow
+      1 alleys
       1 alike
       1 aldermen
+      1 alas
       1 alarm
       1 agreeable
       1 agony
@@ -4440,6 +4410,7 @@
       1 advantage
       1 advance
       1 admitted
+      1 admit
       1 administrator
       1 administered
       1 adjustment
@@ -4458,330 +4429,12 @@
       1 accuracy
       1 accommodate
       1 abyss
+      1 abundance
+      1 abstinence
+      1 abrahams
       1 abode
       1 abject
+      1 abels
       1 abed
-      1 Youll
-      1 Yellow
-      1 YES
-      1 Wouldnt
-      1 Would
-      1 World
-      1 Wonderful
-      1 Wise
-      1 Wilkins
-      1 Whose
-      1 Whitechapel
-      1 While
-      1 Whether
-      1 Wherefore
-      1 Whereat
-      1 Welsh
-      1 Wed
-      1 Weather
-      1 Ward
-      1 Walled
-      1 WalkER
-      1 WHEN
-      1 WAS
-      1 Valentine
-      1 Us
-      1 Up
-      1 Unseen
-      1 United
-      1 Union
-      1 Under
-      1 US
-      1 Two
-      1 Twelfth
-      1 Tut
-      1 Truth
-      1 True
-      1 Treadmill
-      1 Touch
-      1 Total
-      1 Top
-      1 Today
-      1 Timshall
-      1 Tims
-      1 Thus
-      1 Think
-      1 Theyre
-      1 Theyd
-      1 Their
-      1 Sultans
-      1 Suddenly
-      1 Such
-      1 Strike
-      1 Strange
-      1 Story
-      1 Step
-      1 States
-      1 Star
-      1 Spectre
-      1 Speakers
-      1 Sometimes
-      1 Somehow
-      1 Somebody
-      1 Soften
-      1 Small
-      1 Slow
-      1 Slander
-      1 Sittingroom
-      1 Sitting
-      1 Sit
-      1 Sir
-      1 Singularly
-      1 Since
-      1 Show
-      1 Sheets
-      1 Sheba
-      1 Shaving
-      1 Shadow
-      1 Seventh
-      1 Seven
-      1 Serve
-      1 Servant
-      1 Seeing
-      1 See
-      1 Secrets
-      1 Second
-      1 Seasonable
-      1 Scroooooge
-      1 Scriptures
-      1 Scratch
-      1 Saturdays
-      1 SECOND
-      1 SCROOGE
-      1 Running
-      1 Roger
-      1 Robinson
-      1 Rise
-      1 Remove
-      1 Really
-      1 Quick
-      1 Queens
-      1 Putting
-      1 Prophets
-      1 Project
-      1 Produced
-      1 Principle
-      1 Princess
-      1 Porch
-      1 Pooh
-      1 Pondering
-      1 Plentys
-      1 Plenty
-      1 Piercing
-      1 Pharaohs
-      1 Phantoms
-      1 Peters
-      1 Perhaps
-      1 Pauls
-      1 Passing
-      1 Parks
-      1 PROSE
-      1 PREFACE
-      1 Our
-      1 Orson
-      1 Or
-      1 Only
-      1 Onions
-      1 Once
-      1 Ogre
-      1 Often
-      1 Observing
-      1 ONE
-      1 Norfolk
-      1 Night
-      1 Nice
-      1 Nephew
-      1 Near
-      1 Nay
-      1 Nature
-      1 NOT
-      1 MuchMarleys
-      1 Monday
-      1 Miners
-      1 Mine
-      1 Mind
-      1 Miller
-      1 Mercy
-      1 Merciful
-      1 Mens
-      1 Menendez
-      1 Men
-      1 Meanwhile
-      1 Mayors
-      1 Mayor
-      1 Mansion
-      1 Mans
-      1 Mankind
-      1 Make
-      1 MARLEYS
-      1 MARLEY
-      1 Lumberroom
-      1 Likewise
-      1 Light
-      1 Lets
-      1 Left
-      1 Leave
-      1 Law
-      1 Laocoön
-      1 LAST
-      1 Know
-      1 Knocking
-      1 Knew
-      1 Keep
-      1 Jose
-      1 Joining
-      1 Jack
-      1 Ive
-      1 Invisible
-      1 Introduce
-      1 Insect
-      1 Incessant
-      1 Ignorance
-      1 Idol
-      1 Idea
-      1 IT
-      1 IN
-      1 However
-      1 House
-      1 Hope
-      1 Hoop
-      1 Holly
-      1 Holidays
-      1 Holding
-      1 Himself
-      1 Hide
-      1 Her
-      1 Hell
-      1 Heavenly
-      1 Heartily
-      1 Hear
-      1 Heaped
-      1 Having
-      1 Haunt
-      1 Hark
-      1 Hard
-      1 Hamlets
-      1 Halloo
-      1 Halloa
-      1 Halfpast
-      1 Halfadozen
-      1 HAVE
-      1 Gutenberg
-      1 Guess
-      1 Groom
-      1 Grocer
-      1 Green
-      1 Gothic
-      1 Golden
-      1 Glorious
-      1 Glee
-      1 Girded
-      1 Giant
-      1 Ghostly
-      1 Get
-      1 Gentlemen
-      1 Genius
-      1 Genii
-      1 Gate
-      1 Game
-      1 Gale
-      1 GHOST
-      1 Futureinto
-      1 From
-      1 Friend
-      1 Friday
-      1 Friars
-      1 French
-      1 Fowls
-      1 Foul
-      1 Foggier
-      1 Five
-      1 Far
-      1 FIRST
-      1 Eyes
-      1 External
-      1 Exchange
-      1 Evil
-      1 Eves
-      1 Eveold
-      1 Eked
-      1 Eh
-      1 END
-      1 EH
-      1 EBook
-      1 EBENEZER
-      1 During
-      1 Dunstan
-      1 Dreadful
-      1 Down
-      1 Doom
-      1 Dine
-      1 Deny
-      1 Days
-      1 Darkness
-      1 Damascus
-      1 DAY
-      1 D
-      1 Coverley
-      1 Countrys
-      1 Couldnt
-      1 Cornhill
-      1 Conduct
-      1 Clash
-      1 Churchyard
-      1 Chirrup
-      1 Catch
-      1 Can
-      1 Cains
-      1 CONTENTS
-      1 CAROL
-      1 C
-      1 Bye
-      1 Business
-      1 Built
-      1 Britain
-      1 Bring
-      1 Both
-      1 Blessings
-      1 Biffins
-      1 Beware
-      1 Best
-      1 Besidesexcuse
-      1 Belshazzars
-      1 Belle
-      1 Before
-      1 Bedlam
-      1 Becoming
-      1 Bear
-      1 Be
-      1 Baleful
-      1 Bad
-      1 BEING
-      1 Away
-      1 Avarice
-      1 Assure
-      1 Ask
-      1 Apostles
-      1 Any
-      1 Angelic
-      1 Always
-      1 Altogether
-      1 Also
-      1 Allow
-      1 Alleys
-      1 Alas
-      1 Admit
-      1 Admiration
-      1 Act
-      1 Abundance
-      1 Abstinence
-      1 Abrahams
-      1 Abels
-      1 AWAKING
       1 1843
       1 
