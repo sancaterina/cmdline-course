@@ -2,8 +2,9 @@ BOOKS=alice christmas_carol dracula frankenstein heart_of_darkness life_of_bee m
 
 FREQLISTS=$(BOOKS:%=results/%.freq.txt)
 SENTEDBOOKS=$(BOOKS:%=results/%.sent.txt)
+PARSEDBOOKS=$(BOOKS:%=results/%.parsed.txt)
 
-all: $(FREQLISTS) $(SENTEDBOOKS)
+all: $(FREQLISTS) $(SENTEDBOOKS) $(PARSEDBOOKS)
 
 clean:
 	rm -f results/* data/*no_md.txt
@@ -20,4 +21,5 @@ results/%.sent.txt: data/%.no_md.txt
 data/all.no_md.txt: data/alice.txt data/christmas_carol.txt data/dracula.txt data/frankenstein.txt data/heart_of_darkness.txt data/life_of_bee.txt data/moby_dick.txt data/modest_propsal.txt data/pride_and_prejudice.txt data/tale_of_two_cities.txt data/ulysses.txt
 	cat $@ $^ > data/all.no_md.txt
 
-
+results/%.parsed.txt: results/%.sent.txt
+	cat $< > $@
